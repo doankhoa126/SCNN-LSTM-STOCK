@@ -6,5 +6,5 @@
 ##### +Với dữ liệu đầu vào sẽ được tiền xử lý: Xử lý giá trị thiếu (Missing Data Handling), Chuẩn hóa dữ liệu (Data Standardization), Smooth dữ liệu với alpha tối ưu để tăng khả năng chính xác loại bỏ các bất thường và tối ưu tối đa thời gian xử lý của mô hình, Tách dữ liệu thành tập huấn luyện và tập kiểm tra (Train-Test Split),...
 ##### +Mô hình CNN được tối ưu với số lớp Fully Connection Layer sẽ được quyết định dựa vào hệ số lucas.
 ##### +Đưa dữ liệu đã xử lý vào các mô hình và so sánh kết quả dự đoán dựa vào độ đo chính xác (MSE,RMSE, MAE,MAPE,..)
-##### +Toàn bộ Quy tình xử lý:
+##### +Quy tình xử lý:
 ![image](https://github.com/doankhoa126/SCNN-LSTM-STOCK/assets/78411279/2a15385c-4ef0-468c-bb4e-86b2993834af)
